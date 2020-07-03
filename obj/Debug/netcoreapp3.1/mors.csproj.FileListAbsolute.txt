@@ -1,0 +1,13 @@
+/Users/mac/Desktop/mors/bin/Debug/netcoreapp3.1/mors.deps.json
+/Users/mac/Desktop/mors/bin/Debug/netcoreapp3.1/mors.runtimeconfig.json
+/Users/mac/Desktop/mors/bin/Debug/netcoreapp3.1/mors.runtimeconfig.dev.json
+/Users/mac/Desktop/mors/bin/Debug/netcoreapp3.1/mors.dll
+/Users/mac/Desktop/mors/bin/Debug/netcoreapp3.1/mors.pdb
+/Users/mac/Desktop/mors/bin/Debug/netcoreapp3.1/NAudio.dll
+/Users/mac/Desktop/mors/bin/Debug/netcoreapp3.1/System.Resources.Extensions.dll
+/Users/mac/Desktop/mors/obj/Debug/netcoreapp3.1/mors.csprojAssemblyReference.cache
+/Users/mac/Desktop/mors/obj/Debug/netcoreapp3.1/mors.AssemblyInfoInputs.cache
+/Users/mac/Desktop/mors/obj/Debug/netcoreapp3.1/mors.AssemblyInfo.cs
+/Users/mac/Desktop/mors/obj/Debug/netcoreapp3.1/mors.csproj.CopyComplete
+/Users/mac/Desktop/mors/obj/Debug/netcoreapp3.1/mors.dll
+/Users/mac/Desktop/mors/obj/Debug/netcoreapp3.1/mors.pdb
